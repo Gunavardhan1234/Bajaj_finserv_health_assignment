@@ -1,0 +1,4 @@
+mkdir bfhl-api
+cd bfhl-api
+npm init -y
+npm install express cors body-parser
